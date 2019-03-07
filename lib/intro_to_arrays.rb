@@ -8,5 +8,5 @@ end
 
 def first_element
   ["Taylor Swift", "2"]
-  first_element.index(1)
+  first_element.index(1)(array)
 end
