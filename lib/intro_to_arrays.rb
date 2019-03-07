@@ -1,2 +1,4 @@
-instantiate_new_array = ["1"]
+def instantiate_new_array 
+  []
+end
 
