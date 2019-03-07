@@ -6,7 +6,6 @@ def array_with_two_elements
   ["1", "2"]
 end
 
-def first_element
-  ["Taylor Swift", "2"]
-  first_element.index(1)(array)
+def first_element(array)
+  first_element.index(1)
 end
